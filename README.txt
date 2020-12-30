@@ -4,4 +4,5 @@ program ini adalah program yang dibuat untuk transaksi tiket di sebuah bioskop m
 1.class tiket => yang memiliiki 3 jenis tiket
 2.class transaksi
 3.class pembeli => dengan 2 jenis film
-4.class identitas => sebagai class main.
+4.class Film
+5.class identitas => sebagai class main.
